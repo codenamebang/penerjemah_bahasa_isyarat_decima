@@ -1,3 +1,9 @@
 data.zip
 /data
 /sign_detector
+collect_imgs.py
+create_dataset.py
+data.pickle
+inference_classifier.py
+License
+train_classifier.py
