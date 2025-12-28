@@ -7,3 +7,7 @@ data.pickle
 inference_classifier.py
 License
 train_classifier.py
+all_packages.txt
+cek_gpu.py
+train_tl_cnn.py
+uninstall.txt
