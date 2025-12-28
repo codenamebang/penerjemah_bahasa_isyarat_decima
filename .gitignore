@@ -11,3 +11,4 @@ all_packages.txt
 cek_gpu.py
 train_tl_cnn.py
 uninstall.txt
+vercel.json
